@@ -7,8 +7,8 @@ Hola calon anggota divisi Frontend POROS 2024 👋. Selamat datang di _Freepass 
 Pada _challenge_ ini, kamu diminta untuk mengembangkan suatu aplikasi web dengan mengikuti _requirement_ sebagai berikut:
 1. Menggunakan [**PokeAPI V2**](https://pokeapi.co/docs/v2#pokemon) sebagai sumber data aplikasi
 2. Menggunakan framework/library **React.js** atau **Next.js**
-3. Menggunakan **state management library**, seperti Redux (diutamakan), Context API, Zustand, dll
-4. Aplikasi dapat menampilkan **list Pokemon** dan **detail setiap Pokemon**
+3. Menggunakan **state management system**, seperti Redux (diutamakan), Context API, Zustand, dll
+4. Aplikasi dapat menampilkan **list Pokemon** dan **detail setiap Pokemon** (detail yang ditampilkan bebas, minimal 5)
 5. Menerapkan **_responsive design_** (layout aplikasi tetap rapi untuk semua viewport)
 
 ## 🔥 Plus Points
@@ -25,7 +25,7 @@ Jika masih bingung dengan _requirement_ di atas, kamu dapat melihat contoh [di s
 ## ⚠️ Attention
 Berikut beberapa hal yang perlu diperhatikan dalam pengerjaan _challenge_ ini:
 1. Dilarang menggunakan _source code_ orang lain atau sumber eksternal secara utuh
-2. Diperbolehkan menggunakan _external library_
+2. Diperbolehkan menggunakan _external library_ lain sesuai kebutuhan
 3. Diperbolehkan menggunakan desain aplikasi dari sumber manapun
 4. Diperbolehkan menambah fitur dan merancang tampilan sesuai dengan kemampuan dan kreatifitas masing-masing
 
