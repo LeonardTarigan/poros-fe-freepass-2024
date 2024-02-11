@@ -33,7 +33,7 @@ Berikut beberapa hal yang perlu diperhatikan dalam pengerjaan _challenge_ ini:
 Jika kamu sudah menyelesaikan challenge ini, kumpulkan link Github _repository_ projek kamu pada form [berikut](https://forms.gle/faqLdqXP3AbbnRE9A).
 
 ## ⏳ Deadline
-Batas waktu pengumpulan _Freepass Challenge_ ini adalah pada **Senin, 19 Februari 2023** pukul **23:59 WIB**
+Batas waktu pengumpulan _Freepass Challenge_ ini adalah pada **Senin, 19 Februari 2024** pukul **23:59 WIB**
 
 ## ✋ Questions
 Jika kamu ingin bertanya terkait challenge ini, jangan sungkan untuk menghubungi salah satu dari _Contact Person_ di bawah ini:
